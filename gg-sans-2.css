@@ -2,23 +2,23 @@
     font-family: 'gg sans';
     font-style: normal;
     font-weight: 700;
-    src: local('gg sans'), url('https://cdn.jsdelivr.net/gh/manybaht/gg-san-2/gg sans Bold.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/manybaht/gg-san-2/gg sans Bold.woff') format('woff');
 }
 @font-face {
-    font-family: 'gg sans Normal';
+    font-family: 'gg sans';
     font-style: normal;
     font-weight: 400;
-    src: local('gg sans Normal'), url('https://cdn.jsdelivr.net/gh/manybaht/gg-san-2/gg sans Regular.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/manybaht/gg-san-2/gg sans Regular.woff') format('woff');
 }
 @font-face {
-    font-family: 'gg sans Medium';
+    font-family: 'gg sans';
     font-style: normal;
     font-weight: 500;
-    src: local('gg sans Medium'), url('https://cdn.jsdelivr.net/gh/manybaht/gg-san-2/gg sans Medium.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/manybaht/gg-san-2/gg sans Medium.woff') format('woff');
 }
 @font-face {
-    font-family: 'gg sans SemiBold';
+    font-family: 'gg sans';
     font-style: normal;
     font-weight: 600;
-    src: local('gg sans SemiBold'), url('https://cdn.jsdelivr.net/gh/manybaht/gg-san-2/gg sans Semibold.woff') format('woff');
+    src: url('https://cdn.jsdelivr.net/gh/manybaht/gg-san-2/gg sans Semibold.woff') format('woff');
 }
